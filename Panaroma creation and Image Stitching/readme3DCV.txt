@@ -1,0 +1,1 @@
+To run the code open codes>> run .m file
